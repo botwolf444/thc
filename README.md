@@ -86,10 +86,6 @@ Feautures and Properties.
 Thc is a modern and advanced cyber security program for computers with Gnu / Linux operating system and mobile phones and tablets with android operating system, for educational purposes.
 </p>
 
- 
-<img src="sc/sc_new3.png"> <br/> <br/> <br/>
-
- 
 <p>
  
 Details
