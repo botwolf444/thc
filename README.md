@@ -1,8 +1,7 @@
-# mip22
-
- <h1 align="center"> mip22 v3.3 </h1>
+# THC
+ <h1 align="center"> Thc </h1>
  
- <h2 align="center"> mip22 is a advanced phishing tool </h2>
+ <h2 align="center"> Thc is a advanced phishing tool </h2>
  
  <h3 align="center"> 83 default websites, clone any site with manual method, add any site with customize method,  mask link with subdomains, url shortener, audio notice for view the credentials live, music in background etc...  </h3>
 
